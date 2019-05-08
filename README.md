@@ -1,0 +1,1 @@
+This is my very first project, following along with "The Odin Project". It is my first time working  hands on without resources like learn.freecodecamp.org and Codeacademy.com; the date is May 8th, 2019.
